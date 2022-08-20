@@ -2,6 +2,9 @@
 
 Clipboard landing page on Tailwind CSS
 
+### [Demo](https://clipboard-ab.surge.sh)
+![IMAGE ALT TEXT HERE](./screen.png)
+
 ## Usage
 
 Install dependencies
@@ -15,5 +18,3 @@ Run Tailwind CLI
 ```
 npm run watch
 ```
-
-![Alt text](screen.png)
